@@ -31,11 +31,14 @@ public class Main {
 
     public static void task3(int[]arr) {
         System.out.println("Задание 3");
+
     }
 
     public static void task4() {
         System.out.println("Задание 4");
+
     }
+
 
 }
 
